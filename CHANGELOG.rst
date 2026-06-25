@@ -2,6 +2,25 @@
 Changelog for package pal_sea_arm_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.2 (2026-06-04)
+------------------
+* drop gazebo hardcoded model configs
+* setting default launch arguments
+* Fixed mujoco simulation launch file
+* Contributors: Ortisa Poci
+
+1.1.1 (2026-04-20)
+------------------
+* Add missing gz dependencies
+* Contributors: thomas.peyrucain
+
+1.1.0 (2026-04-15)
+------------------
+* Add arguments to support the new gazebo
+* add tuck_arm node
+* adding script
+* Contributors: susannamastromauro, thomas.peyrucain
+
 1.0.4 (2025-06-06)
 ------------------
 * Update 2 files
